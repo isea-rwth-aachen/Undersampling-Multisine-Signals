@@ -79,10 +79,11 @@ Thanks to <a href="https://orcid.org/0000-0001-7785-6569">Hendrik Zappen <img al
 
 ## Related Publications / Citation
 
+You can cite an archived version of this prepository: [https://doi.org/10.18154/RWTH-2024-09502](https://doi.org/10.18154/RWTH-2024-09502).  
 Please cite our papers: https://publications.rwth-aachen.de/record/816942, https://doi.org/10.3390/batteries4040064
 
 Archived versions of this git:  
-Release v0.1.0: ToDo
+Release v0.1.0: [https://doi.org/10.18154/RWTH-2024-09502](https://doi.org/10.18154/RWTH-2024-09502)
 
 ## License
 

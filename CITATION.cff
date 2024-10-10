@@ -11,7 +11,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-5622-3591'
 identifiers:
   - type: doi
-    value: 10.18154/RWTH-2024-03849
+    value: 10.18154/RWTH-2024-09502
 repository-code: 'https://git.rwth-aachen.de/isea/undersampling-multisine-signals'
 license: MIT
 date-released: '2024-10-10'
