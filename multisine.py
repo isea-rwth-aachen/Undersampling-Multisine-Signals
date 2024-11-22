@@ -289,6 +289,11 @@ def get_frequencies(f_s, f_lpf, harmonics_measurable, harmonics_expected):
         ndarray of int: Alias frequencies.
     """
     f_max = int(np.floor(f_lpf / harmonics_measurable))
+    f_nyquist = f_s / 2
+    f_nyquist_int = int(np.floor(f_nyquist))
+
+    f_max = np.max([f_max,f_nyquist_int])
+
     return get_alias_f(
         low_pass_filter(
             get_harmonics(np.arange(f_max + 1), harmonics_expected), f_lpf

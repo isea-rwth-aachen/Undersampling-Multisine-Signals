@@ -3,3 +3,5 @@ figures/*
 .venv
 cliques.csv
 __pycache__
+best_frequencies.csv
+*.npy
