@@ -7,7 +7,7 @@
 # Undersampling Multisine Signals
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fgit.rwth-aachen.de%2Fisea%2Fundersampling-multisine-signals/HEAD?labpath=multisine.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rwth-aachen.de%2Fisea%2Fundersampling-multisine-signals/main)
 
 *Undersampling Multisine Signals* is a tool for selecting frequencies of a multisine signal that do not overlap in the frequency domain in undersampling conditions. A detailed example is described in the conference proceedings of [1] (README.md#sources). An application example for multisine signals can be found in [2](README.md#sources).  
 
